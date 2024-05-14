@@ -1,4 +1,4 @@
-## DevOps Challenge - WIP
+## DevOps Challenge
 
 # Automation with Terraform
 
