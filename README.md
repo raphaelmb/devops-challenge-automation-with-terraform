@@ -57,6 +57,6 @@ Some evolutions suggested for the project:
 - Separate dev, staging, and prod environments using Terraform Workspace or Terraform Grunt for creation and management of these environments.
 - Use DynamoDB along with S3 to prevent parallel execution of Terraform.
 
-## Credits
+## Acknowledgments
 
 This solution was based on the work by [Fabricio Veronez](https://github.com/fabricioveronez) at this [livestream](https://www.youtube.com/watch?v=OhV-pXgeVq4).
